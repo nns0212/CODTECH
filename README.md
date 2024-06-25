@@ -18,5 +18,8 @@ vi) Evaluate the model
 vii) Visualize the output
 
 OUTPUT:
+
+
+
 <img width="494" alt="Screenshot 2024-06-25 195411" src="https://github.com/nns0212/CODTECH/assets/168446842/5bca5d45-590c-4c32-b23f-0c706ffbdfeb">
 
