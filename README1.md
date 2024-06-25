@@ -34,3 +34,43 @@ Imbalance can be dealt with by properly using some methods which we will talk ab
 For protecting the privacy of the user the dimensionality of the data can be reduced.
 A more trustworthy source must be taken which double-check the data, at least for training the model.
 We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
+
+
+OUTPUTS :
+
+![Screenshot 2024-06-25 213103](https://github.com/nns0212/CODTECH/assets/168446842/1b9785b0-2070-4047-a14f-cd9421f756e3)
+
+
+
+
+![Screenshot 2024-06-25 213052](https://github.com/nns0212/CODTECH/assets/168446842/dcc30447-6f64-4475-9c98-21b893d37053)
+
+
+
+
+![Screenshot 2024-06-25 213032](https://github.com/nns0212/CODTECH/assets/168446842/ca0400a8-5e11-4b69-aa41-99df442b623e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
