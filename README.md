@@ -11,7 +11,7 @@ Mentor:G.SRAVANI
 
 
 OVERVIEW OF THE PROJECT:
-Using Linear Regression for predicting Housing Prices based on the dtaset.
+Using Linear Regression for predicting Housing Prices based on the dataset.
 
 ABOUT LINEAR REGRESSION :
 Linear regression is a type of supervised machine learning algorithm that computes the linear 
